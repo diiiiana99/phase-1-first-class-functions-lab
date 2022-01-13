@@ -77,3 +77,13 @@ describe('index.js', function () {
     });
   });
 });
+// describe('selectDifferentDrivers(arrayOfDrivers, function)', function () {
+//   it('returns the first two drivers when passed returnFirstTwoDrivers() as the second argument', function () {
+//     expect(selectDifferentDrivers(returnFirstTwoDrivers, drivers)).to.eql(['Antonia', 'Nuru']);
+//   });
+
+//   it('returns the last two drivers when passed returnLastTwoDrivers() as the second argument', function () {
+//     expect(selectDifferentDrivers(returnLastTwoDrivers, drivers)).to.eql(['Amari', 'Mo']);
+//   });
+// });
+// })
